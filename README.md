@@ -5,9 +5,9 @@
 - 😄 Pronouns: Technician 
 - ⚡ Fun fact: Linux Server is running in VMWARE !!
 
-- 📫 How to reach me ... 
-Linkedin: Sashtiachuthank
-Twitter: @SashtiAchuthanK
+- 📫 How to reach me ...   
+Linkedin: http://www.linkedin.com/in/sashtiachuthank   
+X: https://twitter.com/SashtiAchuthanK
 
 <!---
 sashtiachuthank/sashtiachuthank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
